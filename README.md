@@ -11,3 +11,22 @@
 
 # Nota:
 En los comentarios del file docker-compose.yml estan los puntos a resolver
+
+
+# Documentación
+1. Agregando las variables de entorno en nuestro archivo ```docker-compose.yml```.  
+![Foto1](images/1.png)  
+
+2. Agregando phpMyAdmin  
+![Foto2](images/2.png)  
+![Foto6](images/6.png)  
+![Foto7](images/7.png)  
+
+3. Persistiendo el contenido de la base de datos  
+![Foto3](images/3.png)  
+
+4. Hosteando dos contenedores  
+![Foto4](images/4.png)  
+
+5. Instalando nano  
+![Foto5](images/5.png)  
